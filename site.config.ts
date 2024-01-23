@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Changelog for the Reducto AI document processing API',
 
   // social usernames (optional)
-  twitter: 'raunakdoesdev',
-  github: 'reductoai',
+  // twitter: 'raunakdoesdev',
+  // github: 'reductoai',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
